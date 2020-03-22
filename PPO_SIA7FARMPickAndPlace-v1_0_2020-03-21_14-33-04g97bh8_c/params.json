@@ -1,0 +1,11 @@
+{
+  "callbacks": {
+    "on_episode_end": "<function on_episode_end at 0x7fdf6ad4c400>",
+    "on_episode_start": "<function on_episode_start at 0x7fdfcba5e6a8>",
+    "on_episode_step": "<function on_episode_step at 0x7fdfc684d840>"
+  },
+  "env": "SIA7FARMPickAndPlace-v1",
+  "ignore_worker_failures": true,
+  "num_workers": 28,
+  "seed": 456
+}
